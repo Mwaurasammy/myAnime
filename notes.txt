@@ -1,0 +1,12 @@
+step 1:  make a virtual env - python3 -m venv virtual
+step 2:  activate - source virtual/bin/activate
+
+step 3:  install flask - pip install flask
+
+##to get requirements.txt - pip freeze > requirements.txt
+to run app - python3 app.py
+
+to turn on debug
+
+##templates
+--holds all pages
